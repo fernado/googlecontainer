@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:v3.1.17
+FROM gcr.io/google_containers/kube-controller-manager-amd64:v1.9.0
 MAINTAINER 99492997@qq.com
